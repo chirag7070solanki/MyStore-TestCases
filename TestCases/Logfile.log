@@ -1,0 +1,35 @@
+2018-02-13 17:01:17,444 - MyStore.Utilities.log - INFO - Excel file opened
+2018-02-13 17:01:17,444 - MyStore.Utilities.log - INFO - ******************************************************************************************
+2018-02-13 17:01:17,444 - MyStore.Utilities.log - INFO - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$  TestCase Started   $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2018-02-13 17:01:17,444 - MyStore.Utilities.log - INFO - ******************************************************************************************
+2018-02-13 17:01:49,165 - MyStore.Utilities.log - INFO - Browser opened
+2018-02-13 17:01:49,626 - MyStore.Utilities.log - INFO - My Account element is found
+2018-02-13 17:01:55,168 - MyStore.Utilities.log - INFO - My Account Button is clicked
+2018-02-13 17:01:55,195 - MyStore.Utilities.log - INFO - User name TextBox found
+2018-02-13 17:01:56,853 - MyStore.Utilities.log - INFO - chirag_test is entered
+2018-02-13 17:01:56,870 - MyStore.Utilities.log - INFO - Password TextBox found
+2018-02-13 17:01:56,968 - MyStore.Utilities.log - INFO - chirag77 is entered
+2018-02-13 17:01:56,985 - MyStore.Utilities.log - INFO - Login button found
+2018-02-13 17:01:57,200 - MyStore.Utilities.log - INFO - Login Button is clicked
+2018-02-13 17:02:02,499 - MyStore.Utilities.log - INFO - Login Name Found
+2018-02-13 17:02:02,552 - MyStore.Utilities.log - INFO - Login is successful
+2018-02-13 17:02:02,571 - MyStore.Utilities.log - INFO - Logout button found 
+2018-02-13 17:02:02,631 - MyStore.Utilities.log - INFO - Product Category is clicked
+2018-02-13 17:02:07,249 - MyStore.Utilities.log - INFO - Accessories element is clickable
+2018-02-13 17:02:07,249 - MyStore.Utilities.log - INFO - Accessories is clickable
+2018-02-13 17:02:07,434 - MyStore.Utilities.log - INFO - product 1 is found
+2018-02-13 17:02:07,583 - MyStore.Utilities.log - INFO - product 1 is added to cart
+2018-02-13 17:02:10,319 - MyStore.Utilities.log - INFO - Alert found
+2018-02-13 17:02:10,343 - MyStore.Utilities.log - INFO - GoTo Cart button found
+2018-02-13 17:02:17,042 - MyStore.Utilities.log - INFO - GoTo Cart button clicked
+2018-02-13 17:02:17,088 - MyStore.Utilities.log - INFO - Prodcut name element found
+2018-02-13 17:02:17,133 - MyStore.Utilities.log - INFO - Prodcut price element found
+2018-02-13 17:02:17,154 - MyStore.Utilities.log - INFO - Product name and price verification successful
+2018-02-13 17:02:17,173 - MyStore.Utilities.log - INFO - Continue button found
+2018-02-13 17:02:17,240 - MyStore.Utilities.log - INFO - Continue button clicked
+2018-02-13 17:02:22,299 - MyStore.Utilities.log - INFO - Go Back button element found
+2018-02-13 17:02:22,401 - MyStore.Utilities.log - INFO - Go Back button clicked
+2018-02-13 17:02:22,402 - MyStore.Utilities.log - INFO - TC035 PASSED
+2018-02-13 17:02:22,422 - MyStore.Utilities.log - INFO - ******************************************************************************************
+2018-02-13 17:02:22,422 - MyStore.Utilities.log - INFO - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$  TestCase Ended   $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2018-02-13 17:02:22,423 - MyStore.Utilities.log - INFO - ******************************************************************************************

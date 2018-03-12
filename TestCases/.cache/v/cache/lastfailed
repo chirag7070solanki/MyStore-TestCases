@@ -1,0 +1,6 @@
+{
+  "Test001.py::Test001::()::test_CustomerDetails": true,
+  "Test001.py::Test001::()::test_PurchaseVerify": true,
+  "Test001.py::Test001::()::test_signIn": true,
+  "test_Store_Negative.py::Test_TC001::()::test_tc008": true
+}
